@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/ComicBookShared/bin/Debug
+/ComicBookShared/obj
+
+/ComicBookLibraryManagerWebApp/bin
+/ComicBookLibraryManagerWebApp/obj/Debug
+/ComicBookLibraryManagerWebApp/Web.Release.config
+/ComicBookLibraryManagerWebApp/Web.Debug.config
+/ComicBookLibraryManager/bin/Debug
+/ComicBookLibraryManager/obj
